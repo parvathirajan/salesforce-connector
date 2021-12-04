@@ -2,7 +2,7 @@
 """
 #############################################################################################
 # Script Name:		sf_extraction.py
-# Project Name:		FDP
+# Project Name:		SFC
 # Writen By:		Systech Solutions - Parvathirajan Natarajan
 # Date Written:		Dec 07, 2019
 #
